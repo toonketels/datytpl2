@@ -1,0 +1,267 @@
+{
+  "reportTemplate": "tpl",
+  "dataFormat": "embedded",
+  "pdf": {
+    "width": "10in",
+    "height": "10in",
+    "omitBackground": false
+  },
+  "pages": [
+    {
+      "template": "one",
+      "name": "page-one",
+      "data": {
+        "title": "Reporting, reimagined.",
+        "description": "A dataviz platform to design, automate and share data-rich, beautiful & on-brand data stories.",
+        "image": "daty-1.png",
+        "viz": {
+          "name": "main template datasheet container",
+          "data": [
+            {
+              "name": "Default Data",
+              "data": [
+                [
+                  "Category",
+                  "Value 1",
+                  "Value 2"
+                ],
+                [
+                  "A",
+                  "5",
+                  "10"
+                ],
+                [
+                  "B",
+                  "6",
+                  "1000"
+                ],
+                [
+                  "C",
+                  "70",
+                  "4000"
+                ],
+                [
+                  "D",
+                  "20",
+                  "500"
+                ],
+                [
+                  "E",
+                  "40",
+                  "3000"
+                ],
+                [
+                  "F",
+                  "75",
+                  "9000"
+                ],
+                [
+                  "G",
+                  "45",
+                  "5000"
+                ],
+                [
+                  "H",
+                  "25",
+                  "3000"
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "template": "one",
+      "name": "page-two",
+      "data": {
+        "title": "Design tools for charts & reports",
+        "description": "The power of dataviz design lies in its ability to capture attention, evoke emotion, and inspire action. Our robust tools can transform your numbers into visually stunning, compelling, and engaging data stories.",
+        "image": "daty-2.png",
+        "viz": {
+          "name": "main template datasheet container",
+          "data": [
+            {
+              "name": "Default Data",
+              "data": [
+                [
+                  "Category",
+                  "Value 1",
+                  "Value 2"
+                ],
+                [
+                  "A",
+                  "45",
+                  "3000"
+                ],
+                [
+                  "B",
+                  "50",
+                  "500"
+                ],
+                [
+                  "C",
+                  "20",
+                  "2000"
+                ],
+                [
+                  "D",
+                  "40",
+                  "900"
+                ],
+                [
+                  "E",
+                  "80",
+                  "1000"
+                ],
+                [
+                  "F",
+                  "70",
+                  "4500"
+                ],
+                [
+                  "G",
+                  "85",
+                  "100"
+                ],
+                [
+                  "H",
+                  "25",
+                  "1000"
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "template": "one",
+      "name": "page-three",
+      "data": {
+        "title": "Easily produce charts & reports, over and over again",
+        "description": "Produce multiple or periodic reports based on your on-brand templates. Update the data with just one click. Boost productivity and reduce costs without having to redesign your report templates.\nOr automate the whole production process without any coding!",
+        "image": "daty-3.png",
+        "viz": {
+          "name": "main template datasheet container",
+          "data": [
+            {
+              "name": "Default Data",
+              "data": [
+                [
+                  "Category",
+                  "Value 1",
+                  "Value 2"
+                ],
+                [
+                  "A",
+                  "65",
+                  "10000"
+                ],
+                [
+                  "B",
+                  "60",
+                  "3000"
+                ],
+                [
+                  "C",
+                  "70",
+                  "2000"
+                ],
+                [
+                  "D",
+                  "20",
+                  "500"
+                ],
+                [
+                  "E",
+                  "40",
+                  "3000"
+                ],
+                [
+                  "F",
+                  "75",
+                  "1000"
+                ],
+                [
+                  "G",
+                  "45",
+                  "5000"
+                ],
+                [
+                  "H",
+                  "25",
+                  "3000"
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "template": "one",
+      "name": "page-four",
+      "data": {
+        "title": "Seamlessly embed powerful reports",
+        "description": "Do you require sophisticated and truly pixel-perfect data visualization in your application? Upgrade your reporting capabilities by embedding our flexible and scaleable reporting platform.",
+        "image": "daty-4.png",
+        "viz": {
+          "name": "main template datasheet container",
+          "data": [
+            {
+              "name": "Default Data",
+              "data": [
+                [
+                  "Category",
+                  "Value 1",
+                  "Value 2"
+                ],
+                [
+                  "A",
+                  "65",
+                  "6000"
+                ],
+                [
+                  "B",
+                  "60",
+                  "5000"
+                ],
+                [
+                  "C",
+                  "70",
+                  "11000"
+                ],
+                [
+                  "D",
+                  "20",
+                  "500"
+                ],
+                [
+                  "E",
+                  "40",
+                  "3000"
+                ],
+                [
+                  "F",
+                  "75",
+                  "1000"
+                ],
+                [
+                  "G",
+                  "45",
+                  "5000"
+                ],
+                [
+                  "H",
+                  "25",
+                  "13000"
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

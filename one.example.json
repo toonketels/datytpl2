@@ -1,0 +1,8 @@
+{
+  "title": "Reporting, reimagined.",
+  "description": "A dataviz platform to design, automate and share data-rich, beautiful & on-brand data stories.",
+  "image": "daty-1.png",
+  "viz": {
+    "$ref": "viz-1.example.json"
+  }
+}

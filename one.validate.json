@@ -1,0 +1,25 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Generated schema for Root",
+  "type": "object",
+  "properties": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "image": {
+      "type": "string"
+    },
+    "viz": {
+      "$ref": "viz-1.validate.json"
+    }
+  },
+  "required": [
+    "title",
+    "description",
+    "image",
+    "viz"
+  ]
+}

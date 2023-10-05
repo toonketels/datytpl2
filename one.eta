@@ -1,0 +1,31 @@
+<html>
+<style>
+</style>
+<head>
+    <link rel="stylesheet" href="public/style.css" />
+</head>
+<body>
+
+
+<div class="container">
+    <div class="main">
+
+        <div class="left">
+            <h1><%= it.title %></h1>
+
+            <p><%= it.description %></p>
+        </div>
+
+
+
+        <div class="right">
+            <img src="public/<%= it.image %>" width="400px">
+        </div>
+    </div>
+
+    <div class="secondary">
+        <%~ await daty("viz-1.svg", it.viz) %>
+    </div>
+</div>
+</body>
+</html>
