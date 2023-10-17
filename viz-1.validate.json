@@ -3,36 +3,25 @@
   "title": "Generated schema for Root",
   "type": "object",
   "properties": {
-    "name": {
-      "type": "string"
-    },
-    "data": {
-      "type": "array",
-      "items": {
-        "type": "object",
-        "properties": {
-          "name": {
-            "type": "string"
-          },
-          "data": {
+    "main template datasheet container": {
+      "type": "object",
+      "properties": {
+        "Default Data": {
+          "type": "array",
+          "items": {
             "type": "array",
             "items": {
-              "type": "array",
-              "items": {
-                "type": "string"
-              }
+              "type": "string"
             }
           }
-        },
-        "required": [
-          "name",
-          "data"
-        ]
-      }
+        }
+      },
+      "required": [
+        "Default Data"
+      ]
     }
   },
   "required": [
-    "name",
-    "data"
+    "main template datasheet container"
   ]
 }
